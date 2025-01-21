@@ -1,3 +1,3 @@
-# Homework 1\n\n## Hello Professo
+# Homework 1
 
-I m excited to start IS601
+Im excited to start IS601
